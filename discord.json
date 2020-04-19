@@ -1,0 +1,17 @@
+{
+    "--transparencycolor":    "0,0,0",
+    "--transparencyalpha":    0.15,
+    "--messagetransparency":  0.5,
+    "--guildchanneltransparency": 0.15,
+    "--memberlisttransparency":   0.0,
+    "--accentcolor":  "190,78,180",
+    "--textshadow":   "transparent",
+    "--background":   "url(http://localhost:8080/background.jpg)",
+    "--backgroundsize": "cover",
+    "--backgroundblur": "5px",
+    "--popout": "var(--background)",
+    "--version1_0_5": "none",
+    "--popoutblur":   "0px",
+    "--backdrop": "rgba(0,0,0,0.85)",
+    "--backdropblur": "2px"
+}
