@@ -1,6 +1,6 @@
 import http.server,socketserver
 
-port = 8080
+port = 39501
 Handler = http.server.SimpleHTTPRequestHandler
 
 with socketserver.TCPServer(("",port),Handler) as http_server:
